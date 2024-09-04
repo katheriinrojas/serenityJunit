@@ -1,0 +1,9 @@
+1.- Usuario y contraseña para Login correcto:
+
+username: standard_user
+password: secret_sauce
+
+2.- Usuario y contraseña para Login bloqueado:
+
+username: locked_out_user
+password: prueba123
